@@ -1,0 +1,40 @@
+<style>
+#tablecss {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#tablecss td, #tablecss th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#tablecss tr:nth-child(even){background-color: #f2f2f2;}
+#tablecss tr:hover {background-color: #ddd;}
+#tablecss th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #C0CEDE;
+    color: white;
+}
+
+#tablecart {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#tablecart td, #tablecart th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#tablecart tr:nth-child(even){background-color: #f2f2f2;}
+#tablecart tr:hover {background-color: #ddd;}
+#tablecart th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #C0CEDE;
+    color: white;
+}
+
+</style>
